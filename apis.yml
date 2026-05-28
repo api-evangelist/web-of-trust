@@ -1,0 +1,32 @@
+aid: web-of-trust
+name: Web of Trust
+description: "IP/domain/URL reputation"
+url: https://support.mywot.com/hc/en-us/sections/360004477734-API-
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anti-Malware"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anti Malware
+  - Public APIs
+apis:
+  - name: Web of Trust
+    description: "IP/domain/URL reputation"
+    humanURL: https://support.mywot.com/hc/en-us/sections/360004477734-API-
+    baseURL: https://support.mywot.com/hc/en-us/sections/360004477734-API-
+    tags:
+      - Anti Malware
+    properties:
+      - type: Documentation
+        url: https://support.mywot.com/hc/en-us/sections/360004477734-API-
+common:
+  - type: Website
+    url: https://support.mywot.com/hc/en-us/sections/360004477734-API-
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
