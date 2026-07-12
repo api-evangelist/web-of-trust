@@ -1,0 +1,16 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: support.mywot.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Sep 16 23:41:50 2026 GMT
+  hsts: true
+  hsts_max_age: 259200
+domains:
+- domain: mywot.com
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: false

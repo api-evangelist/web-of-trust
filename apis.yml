@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://support.mywot.com/hc/en-us/sections/360004477734-API-
 common:
+  - type: DomainSecurity
+    url: security/web-of-trust-domain-security.yml
   - type: Website
     url: https://support.mywot.com/hc/en-us/sections/360004477734-API-
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.mywot.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
