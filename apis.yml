@@ -39,7 +39,6 @@ apis:
   - name: Web of Trust
     description: "IP/domain/URL reputation"
     humanURL: https://support.mywot.com/hc/en-us/sections/360004477734-API-
-    baseURL: https://support.mywot.com/hc/en-us/sections/360004477734-API-
     tags:
       - Anti Malware
     properties:
